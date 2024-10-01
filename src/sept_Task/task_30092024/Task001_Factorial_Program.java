@@ -1,6 +1,6 @@
 package sept_Task.task_30092024;
 
-public class Lab001_Factorial_Program {
+public class Task001_Factorial_Program {
     public static void main(String[] args) {
 
         int num=5;

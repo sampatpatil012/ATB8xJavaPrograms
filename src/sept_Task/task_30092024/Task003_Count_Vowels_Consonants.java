@@ -1,6 +1,6 @@
 package sept_Task.task_30092024;
 
-public class Lab003_Count_Vowels_Consonants {
+public class Task003_Count_Vowels_Consonants {
     public static void main(String[] args) {
         String str = "Automation_1";
         int vCount = 0;
