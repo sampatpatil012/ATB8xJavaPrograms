@@ -1,6 +1,6 @@
 package sept.ex_23092024;
 
-public class Lab076 {
+public class Lab076_SwitchCase_String {
     public static void main(String[] args) {
 
         String browser = "IE";
